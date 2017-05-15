@@ -13,3 +13,10 @@ The app should appear on the screen.
 ## Dependencies
 - JavaFX
 - Maven
+
+## Contributors
+- K. Klein
+- J. Duque
+- T. Hearn
+- S. Cook
+- S. Park
